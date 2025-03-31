@@ -1,5 +1,5 @@
 // Usamos tu clave de API
-const API_KEY = "AIzaSyAYkWPNbeKrr9MFENtJwAt8b4tiyLcFK2Y";
+const API_KEY = "";
 
 // Mapeo de tipos de vehículo para mostrar el texto visible en lugar del data-type
 const vehicleTypeMap = {
